@@ -8,3 +8,15 @@ html {
 *::after {
   box-sizing: inherit;
 }
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.recipe-item {
+  margin-bottom: 10px;
+}
